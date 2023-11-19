@@ -1,7 +1,7 @@
 # CalcTimerAssignment
 For this assignment I chose the first choices given. i did a multiplication and addition of doubles and integers of equivalent arrays. I also chose to do direct multiplication of doubles and the Math.Pow function along with the Math.Sqrt function.
 ## Results for part A:
-for the multiplication and addition of integers and doubles, it was found that overall, the integers were faster than the doubles. This would make sense since integers have less bytes than the doubles do. Ints having 4 bytes and doubles having 8. 
+For the multiplication and addition of integers and doubles, it was found that overall, the integers were faster than the doubles. This would make sense since integers have less bytes than the doubles do. Ints having 4 bytes and doubles having 8. 
 I believe this would be the reson since the more bytes you have the more time needed during calculations due to the space that the bytes took up for doubles.
 In terms of comparing addition and multiplication of integers, The results were relatively the same. However, after running the code a few times I found that the addition of integers was faster than the multiplication of them. 
 This makes sense addition of numbers in general is easier than multiplying them. But overall the time and ticks were pretty close.
